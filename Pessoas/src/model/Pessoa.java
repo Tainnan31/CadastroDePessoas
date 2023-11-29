@@ -46,7 +46,7 @@ public class Pessoa {
 //#endregion
 
 public void seApresentar(String nome) {
-    System.out.println("Olá! Eu me chamo" + this.getNome());
+    System.out.println("Prazer, meu nome é" + this.getNome());
 };
     
 
